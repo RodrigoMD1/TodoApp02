@@ -12,7 +12,7 @@ function App() {
 
         <div className="logoside">
           <FaPen />
-          <h1>what to do</h1>
+          <h1>que vas a hacer xd</h1>
           <FaClipboardList /> 
         </div>
 

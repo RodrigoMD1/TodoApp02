@@ -28,7 +28,7 @@ const TodoForm: React.FC<PropTypes> = ({ setTodos }) => {
                 placeholder='add a task'
             />
 
-            <button onClick={handleAddTodo}>add Todo</button>
+            <button onClick={handleAddTodo}>Agregar tarea</button>
         </div>
     )
 }
